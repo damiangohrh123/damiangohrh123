@@ -1,4 +1,4 @@
-# Hi, I'm Damian! 👋
+## Hi, I'm Damian! 👋
 
 I'm a developer with a passion for building things that think, learn, and move. I'm currently into AI and machine learning.
 
