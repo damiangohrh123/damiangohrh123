@@ -1,5 +1,8 @@
-Hi, I'm Damian! 👋  
-I'm a developer with a passion for building things. Currently into AI and machine learning.
+what the horse considers play
+
+the monkey considers business
+
+but to tom, its all foolery
 
 <!--
 **damiangohrh123/damiangohrh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
